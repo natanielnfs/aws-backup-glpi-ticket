@@ -1,6 +1,4 @@
 {
-    "aws_access_key_id": "SEU_AWS_ACCESS_KEY_ID",
-    "aws_secret_access_key": "SEU_AWS_SECRET_ACCESS_KEY",
     "glpi_api_url": "SUA_URL_GLPI/apirest.php",
     "glpi_app_token": "SEU_GLPI_APP_TOKEN",
     "glpi_user_token": "SEU_GLPI_USER_TOKEN",
